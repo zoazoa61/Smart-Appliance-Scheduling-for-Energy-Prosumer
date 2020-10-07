@@ -6,3 +6,6 @@ Summary
 Contents:
 -By specifying the energy prosumer as a customer, a monthly scheduling is executed considering the progressive tax when using smart home appliances.
 -Provides scheduling that maximizes individual profits by predicting each customer's electricity consumption, PV generation, and electricity transaction price by month and using it as an input value of the DQN-based multi-agent reinforcement learning model.
+
+
+[presentation.pdf](https://github.com/zoazoa61/Smart-Appliance-Scheduling-for-Energy-Prosumer/files/5338339/presentation.pdf)
