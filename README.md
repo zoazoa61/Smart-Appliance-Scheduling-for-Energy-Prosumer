@@ -8,7 +8,7 @@
  - Provides scheduling that maximizes individual profits by predicting each customer's electricity consumption, PV generation, and electricity transaction price by month and using it as an input value of the DQN-based multi-agent reinforcement learning model.
 
 ## Videos
-[![Video Label](https://img.youtube.com/vi/1hrko0aMiww/1.jpg)](https://youtu.be/1hrko0aMiww)
+[![Video Label](https://img.youtube.com/vi/1hrko0aMiww/0.jpg)](https://youtu.be/1hrko0aMiww)
 
 ## E.T.C
 ![1](https://user-images.githubusercontent.com/55681849/95302785-60c07980-08bd-11eb-83b6-f1fc06f65fb9.png)
